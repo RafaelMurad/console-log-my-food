@@ -1,6 +1,5 @@
 #! /usr/bin/env node
-
-const { default: axios } = require("axios");
+const axios = require("axios");
 
 const readline = require("readline").createInterface({
   input: process.stdin,
