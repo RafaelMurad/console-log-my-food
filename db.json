@@ -1,0 +1,44 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "apple",
+      "calories": 88,
+      "serving_size": 30,
+      "serving_unit": "grams"
+    },
+    {
+      "id": 2,
+      "name": "banana",
+      "calories": 105,
+      "serving_size": 30,
+      "serving_unit": "grams"
+    },
+
+    {
+      "id": 3,
+      "name": "whole milk",
+      "calories": 240,
+      "serving_size": 50,
+      "serving_unit": "grams"
+    },
+
+    {
+      "id": 4,
+      "name": "chicken breast",
+      "calories": 200,
+      "serving_size": 100,
+      "serving_unit": "grams"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastname": "Doe",
+      "age": 25,
+      "email": "jon@email.com"
+    }
+  ]
+}
